@@ -1,7 +1,9 @@
 {
+      "Producto":{
       "Id":1,
             "Nombre": "Lechuga crespa",
             "Precio": "1500",
             "UnidadMedida": "Libra",
             "Foto": "https://www.jardineriaon.com/wp-content/uploads/2019/10/Lechuga-batavia.jpg"
           }
+}
